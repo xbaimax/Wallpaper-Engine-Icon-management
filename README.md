@@ -12,4 +12,4 @@ Wallpaper Engine托盘图标管理器是一个快速修改Wallpaper Engine注册
 
 #### 功能开发参考文献
 
-1.  [wallpaperengine](http://https://help.wallpaperengine.io/zh/functionality/tray.html)
+1.  [wallpaperengine](https://help.wallpaperengine.io/zh/functionality/tray.html)
